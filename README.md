@@ -2,3 +2,6 @@ This is my first attempt at learning git while learning python. I am pretty sure
 
 My hope is to document this process in a way that will be amenable to novices at both python and git, so I will try to document anything that brought me pain and likewise, any triumphs I encounter.
 
+*Also, the repo name being this long is an artifact of my science background...note to self, LPHW would have been a better name.
+
+
