@@ -22,3 +22,5 @@ print "There will be", cars_not_driven, "empty cars today."
 print "We can transport", carpool_capacity, "people today."
 print "We have", passengers, "to carpool today."
 print "We need to put about", average_passengers_per_car, "in each car."
+
+# From bottom to top- we ultimately want to figure our how many passengers we can put in each car. So we need to know how many passengers we have to carpool today, then
